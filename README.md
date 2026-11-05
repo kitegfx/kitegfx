@@ -47,6 +47,6 @@ Proficient in using IDEs such as IntelliJ, Rider, and WebStorm. I am also experi
 ![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
 You can primarily contact me on Discord: `kitepsd`. 
-For all other links, visit https://linktr.ee/kitegfx
+For all other links, visit https://www.wonderlink.de/@kitegfx
 
 </div>
